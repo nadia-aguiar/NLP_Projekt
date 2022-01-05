@@ -1,0 +1,43 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/154567",
+ "artist_names": "Justin Bieber",
+ "full_title": "That Should Be Me by\u00a0Justin\u00a0Bieber",
+ "header_image_thumbnail_url": "https://images.genius.com/79a242eb0d417e0e1af2ad4f430c747e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/79a242eb0d417e0e1af2ad4f430c747e.1000x1000x1.jpg",
+ "id": 154567,
+ "instrumental": false,
+ "lyrics_owner_id": 226099,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1641016902,
+ "path": "/Justin-bieber-that-should-be-me-lyrics",
+ "pyongs_count": 18,
+ "song_art_image_thumbnail_url": "https://images.genius.com/79a242eb0d417e0e1af2ad4f430c747e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/79a242eb0d417e0e1af2ad4f430c747e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 59841
+ },
+ "title": "That Should Be Me",
+ "title_with_featured": "That Should Be Me",
+ "updated_by_human_at": 1641016902,
+ "url": "https://genius.com/Justin-bieber-that-should-be-me-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/357",
+  "header_image_url": "https://images.genius.com/be2c60bdfb3ea6844a46cc5873c75b89.1000x563x1.jpg",
+  "id": 357,
+  "image_url": "https://images.genius.com/8c95afb142e16e2e053b4384514dc339.938x938x1.png",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Justin Bieber",
+  "slug": "Justin-bieber",
+  "url": "https://genius.com/artists/Justin-bieber",
+  "iq": 1533
+ },
+ "artist": "Justin Bieber",
+ "lyrics": "[Verse 1]\nEverybody's laughing in my mind\nRumours spreading 'bout this other guy\nDo you do what you did when you did with me? Does he love you the way I can?\nDid you forget all the plans that you made with me? Cause baby I didn't\n\n[Chorus]\nThat should be me holding your hand\nThat should be me making you laugh\nThat should be me, this is so sad\nThat should be me, that should be me\nThat should be me feeling your kiss\nThat should be me buying you gifts\nThis is so wrong, I can't go on\n'Til you believe that that should be me, that should be me\n\n[Verse 2]\nYou said you needed a little time for my mistakes\nIt's funny how you used that time to have me replaced\nDid you think that I wouldn't see you out at the movies? What you doing to me, you're taking him where we used to go\nNow if you're tryna break my heart, it's working because you know that\n\n[Chorus]\nThat should be me holding your hand\nThat should be me making you laugh\nThat should be me, this is so sad\nThat should be me, that should be me\nThat should be me feeling your kiss\nThat should be me buying you gifts\nThis is so wrong, I can't go on\n'Til you believe that that should be me\n[Bridge]\nI need to know should I fight for love or disarm\nIt's getting harder to shield this pain in my heart\nOooh\n[Chorus]\nThat should be me holding your hand\nThat should be me making you laugh\nThat should be me, this is so sad\nThat should be me, that should be me\nThat should be me feeling your kiss\nThat should be me buying you gifts\nThis is so wrong, I can't go on\n'Til you believe that that should be me\nHolding your hand, that should be me\nThe one making you laugh oh baby, oh that should be me\nThat should be me giving you flowers, that should be me talking for hours\nThat should be me, that should be me, that should be me\n\n[Outro]\nNever shoulda let you go, I never shoulda let you go\nThat should be me\nI'm never gonna let you go\nThat should be me\nI'm never shoulda let you go\nI'm never gonna let you go\nThat should be me\nI'm never gonna let you go18EmbedShare URLCopyEmbedCopy"
+}

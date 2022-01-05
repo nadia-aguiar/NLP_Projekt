@@ -1,0 +1,41 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/2225907",
+ "artist_names": "Glee Cast",
+ "full_title": "Don't Stop Believin' (Glee Cast Concert Version) by\u00a0Glee\u00a0Cast",
+ "header_image_thumbnail_url": "https://images.genius.com/6e782b01a7979865ed569788baa69e80.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6e782b01a7979865ed569788baa69e80.1000x1000x1.jpg",
+ "id": 2225907,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1476407959,
+ "path": "/Glee-cast-dont-stop-believin-glee-cast-concert-version-lyrics",
+ "pyongs_count": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/6e782b01a7979865ed569788baa69e80.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6e782b01a7979865ed569788baa69e80.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Don\u2019t Stop Believin\u2019 (Glee Cast Concert Version)",
+ "title_with_featured": "Don't Stop Believin' (Glee Cast Concert Version)",
+ "updated_by_human_at": 1476407976,
+ "url": "https://genius.com/Glee-cast-dont-stop-believin-glee-cast-concert-version-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/275474",
+  "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+  "id": 275474,
+  "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Glee Cast",
+  "slug": "Glee-cast",
+  "url": "https://genius.com/artists/Glee-cast"
+ },
+ "artist": "Glee Cast",
+ "lyrics": "Finn:\nJust a small town girl\nLivin' in a lonely world\nShe took the midnight train goin' anywhere\n\nRachel:\nJust a city boy\nBorn and raised in south Detroit\nHe took the midnight train goin' anywhere\n\nFinn:\nA singer in a smoky room\n\nRachel:\nA smell of wine and cheap perfume\n\nFinn and Rachel:\nFor a smile they can share the night\nIt goes on and on and on and on\nStrangers waiting\nUp and down the boulevard\nTheir shadows searching in the night\nStreetlights people\nLiving just to find emotion\nHiding somewhere in the night\nRachel:\nWorking hard to get my fill\nEverybody wants a thrill\n\nFinn and Rachel:\nPayin' anything to roll the dice just one more time\n\nRachel:\nSome will win\n\nFinn and Rachel:\nSome will lose\nSome were born to sing the blues\nOh, the movie never ends\nIt goes on and on and on and on\nStrangers waiting\nUp and down the boulevard\nTheir shadows searching in the night\nStreetlight people\nLiving just to find emotion\nHiding somewhere in the night\n\nFinn and Rachel with New Directions:\nDon't stop believin'\n(Finn and Rachel: Hold on to that feelin')\nStreetlight people\nDon't stop believin'\n(Finn and Rachel: Hold on to that feelin')\nStreetlight people\nDon't stop!EmbedShare URLCopyEmbedCopy"
+}

@@ -1,0 +1,43 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/2520",
+ "artist_names": "Taylor Swift",
+ "full_title": "Mine by\u00a0Taylor\u00a0Swift",
+ "header_image_thumbnail_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d04f0a5d76810e4bc7c6d5f8e261bd91.1000x1000x1.jpg",
+ "id": 2520,
+ "instrumental": false,
+ "lyrics_owner_id": 7,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1635962823,
+ "path": "/Taylor-swift-mine-lyrics",
+ "pyongs_count": 38,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f5f5e652dbcaf63070aaf6209f228024.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f5f5e652dbcaf63070aaf6209f228024.800x800x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 203139
+ },
+ "title": "Mine",
+ "title_with_featured": "Mine",
+ "updated_by_human_at": 1635962823,
+ "url": "https://genius.com/Taylor-swift-mine-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1177",
+  "header_image_url": "https://images.genius.com/d47712382d4aa21de075a39e5fe2885f.1000x333x1.jpg",
+  "id": 1177,
+  "image_url": "https://images.genius.com/721a6c465a666419bf286b473287c33f.446x446x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Taylor Swift",
+  "slug": "Taylor-swift",
+  "url": "https://genius.com/artists/Taylor-swift",
+  "iq": 1540
+ },
+ "artist": "Taylor Swift",
+ "lyrics": "[Verse 1]\nYou were in college, working part-time, waiting tables\nLeft a small town and never looked back\nI was a flight risk, with a fear of falling\nWondering why we bother with love, if it never lasts\n\n[Pre-Chorus 1]\nI say, \"Can you believe it?\"\nAs we're lying on the couch\nThe moment, I could see it\nYes, yes, I can see it now\n\n[Chorus]\nDo you remember, we were sitting there, by the water?\nYou put your arm around me for the first time\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\n\n[Verse 2]\nFlash forward, and we're taking on the world together\nAnd there's a drawer of my things at your place\nYou learn my secrets and you figure out why I'm guarded\nYou say we'll never make my parents' mistakes\n\n[Pre-Chorus 2]\nBut we got bills to pay\nWe got nothing figured out\nWhen it was hard to take\nYes, yes\nThis is what I thought about:\n[Chorus]\nDo you remember, we were sitting there, by the water?\nYou put your arm around me for the first time\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\nDo you remember all the city lights on the water?\nYou saw me start to believe for the first time\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\n\n[Bridge]\nAnd I remember that fight, 2:30 AM\nAs everything was slipping right out of our hands\nI ran out, crying, and you followed me out into the street\nBraced myself for the goodbye\n'Cause that's all I've ever known\nThen, you took me by surprise\nYou said, \"I'll never leave you alone.\"\n\n[Chorus 2]\nYou said, \"I remember how we felt, sitting by the water\nAnd every time I look at you, it's like the first time\nI fell in love with a careless man's careful daughter\nShe is the best thing that's ever been mine\"\nHold on, make it last\nHold on, never turn back\nYou made a rebel of a careless man's careful daughter\nYou are the best thing that's ever been mine\n[Outro]\nYeah, yeah\nDo you believe it? (Hold on)\nWe're gonna make it now (Hold on)\nAnd I can see it\nYeah, yeah\nI can see it now (See it now)38EmbedShare URLCopyEmbedCopy"
+}

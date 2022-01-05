@@ -1,0 +1,42 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/820529",
+ "artist_names": "Andrew Belle (Ft. Erin McCarley)",
+ "full_title": "In My Veins by\u00a0Andrew\u00a0Belle (Ft.\u00a0Erin\u00a0McCarley)",
+ "header_image_thumbnail_url": "https://images.genius.com/9932f75d6a81773f9995bfc5bc7d9561.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9932f75d6a81773f9995bfc5bc7d9561.1000x1000x1.jpg",
+ "id": 820529,
+ "instrumental": false,
+ "lyrics_owner_id": 288506,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1536729868,
+ "path": "/Andrew-belle-in-my-veins-lyrics",
+ "pyongs_count": 12,
+ "song_art_image_thumbnail_url": "https://images.genius.com/9932f75d6a81773f9995bfc5bc7d9561.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9932f75d6a81773f9995bfc5bc7d9561.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 93091
+ },
+ "title": "In My Veins",
+ "title_with_featured": "In My Veins (Ft.\u00a0Erin\u00a0McCarley)",
+ "updated_by_human_at": 1536729868,
+ "url": "https://genius.com/Andrew-belle-in-my-veins-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/328072",
+  "header_image_url": "https://images.genius.com/da7f9fe5978758c989a3648adc1a7f70.1000x380x1.jpg",
+  "id": 328072,
+  "image_url": "https://images.genius.com/5a25ebf6db51f401a515991ad6c96278.500x500x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Andrew Belle",
+  "slug": "Andrew-belle",
+  "url": "https://genius.com/artists/Andrew-belle"
+ },
+ "artist": "Andrew Belle",
+ "lyrics": "[Verse 1]\nNothing goes as planned\nEverything will break\nPeople say goodbye\nIn their own special way\nAll that you rely on\nAnd all that you can fake\nWill leave you in the morning\nBut find you in the day\n\n[Chorus]\nOh, you're in my veins\nAnd I cannot get you out\nOh, you're all I taste\nAt night inside of my mouth\nOh, you run away\nCause I am not what you found\nOh, you're in my veins\nAnd I cannot get you out\n\n[Verse 2]\nEverything will change\nNothing stays the same\nAnd nobody is perfect\nOh, but everyone's to blame, yeah\nAll that you rely on\nAnd all that you can save\nWill leave you in the morning\nAnd find you in the day\n[Chorus]\nOh, you're in my veins\nAnd I cannot get you out\nOh, you're all I taste\nAt night inside of my mouth\nOh, you run away\nCause I am not what you found\nOh, you're in my veins\nAnd I cannot get you out\n\n[Interlude]\nNo, I cannot get you out\nNo, I cannot get you...\nOh, no, I cannot get you out\nNo, I cannot get you...\n\n[Bridge]\nEverything is dark\nIt's more than you can take\nBut you catch a glimpse of sunlight\nShining, shining down on your face\nYour face\nOh, your face\n\n[Chorus]\nOh, you're in my veins\nAnd I cannot get you out\nOh, you're all I taste\nAt night inside of my mouth\nOh, you run away\nCause I am not what you found\nOh, you're in my veins\nAnd I cannot get you out\n[Outro]\nNo, I cannot get you out\n(Oh, you're in my veins)\nAnd I cannot get you out\nOh, no, I cannot get you...12EmbedShare URLCopyEmbedCopy"
+}

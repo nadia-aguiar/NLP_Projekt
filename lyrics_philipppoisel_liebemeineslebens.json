@@ -1,0 +1,42 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/665575",
+ "artist_names": "Philipp Poisel",
+ "full_title": "Liebe meines Lebens by\u00a0Philipp\u00a0Poisel",
+ "header_image_thumbnail_url": "https://images.genius.com/3155cb6865d592f7591305a049ef425a.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3155cb6865d592f7591305a049ef425a.1000x1000x1.jpg",
+ "id": 665575,
+ "instrumental": false,
+ "lyrics_owner_id": 636882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1525675570,
+ "path": "/Philipp-poisel-liebe-meines-lebens-lyrics",
+ "pyongs_count": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/3155cb6865d592f7591305a049ef425a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3155cb6865d592f7591305a049ef425a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 9427
+ },
+ "title": "Liebe meines Lebens",
+ "title_with_featured": "Liebe meines Lebens",
+ "updated_by_human_at": 1432794920,
+ "url": "https://genius.com/Philipp-poisel-liebe-meines-lebens-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/23761",
+  "header_image_url": "https://images.genius.com/6524129c0507c37e44a9fcd36247eec0.800x1000x1.jpg",
+  "id": 23761,
+  "image_url": "https://images.genius.com/6524129c0507c37e44a9fcd36247eec0.800x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Philipp Poisel",
+  "slug": "Philipp-poisel",
+  "url": "https://genius.com/artists/Philipp-poisel"
+ },
+ "artist": "Philipp Poisel",
+ "lyrics": "[Strophe 1]\nAlles was ich wei\u00df, wei\u00df ich von dir\nAlles was ich habe, hab' ich von dir\nAlles was ich liebe, hat mit dir zu tun\nUnd so lang ich lebe, wird mein Herz nicht ruhn\nUnd so wird es immer bleiben\nDu kannst gar nichts dagegen tun\n\n[Refrain]\nWeil du die Liebe meines Lebens bist\nWeil du die Liebe meines Lebens bist\nWeil du die Liebe meines lieben Lebens bist\n\n[Strophe 2]\nAlles was ich tue, gestern heut' und hier\nSoll doch nur ein Umweg sein, auf meinem Weg zu dir\nAlles was ich tue, hat nur einen Sinn\nDass ich am Ende meines Lebens endlich bei dir bin\nUnd so wird es immer bleiben\nDu kannst gar nichts dagegen tun\n\n[Refrain]\n\n[Strophe 3]\nUnd selbst wenn ich dich nie kriege\nDann wird eines f\u00fcr immer sein\nDer Schmerz in meinem Herzen\nMein Leben ohne dich gewesen zu sein\nUnd so wird es immer bleiben\nDu kannst gar nichts dagegen tun\n[Refrain] (x2)EmbedShare URLCopyEmbedCopy"
+}

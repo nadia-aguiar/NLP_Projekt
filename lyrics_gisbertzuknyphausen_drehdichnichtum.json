@@ -1,0 +1,42 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1658714",
+ "artist_names": "Gisbert zu Knyphausen",
+ "full_title": "Dreh dich nicht um by\u00a0Gisbert\u00a0zu Knyphausen",
+ "header_image_thumbnail_url": "https://images.genius.com/75b1ab9a13f28c1c0e0b160e4276e536.300x269x1.jpg",
+ "header_image_url": "https://images.genius.com/75b1ab9a13f28c1c0e0b160e4276e536.1000x896x1.jpg",
+ "id": 1658714,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429902383,
+ "path": "/Gisbert-zu-knyphausen-dreh-dich-nicht-um-lyrics",
+ "pyongs_count": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/75b1ab9a13f28c1c0e0b160e4276e536.300x269x1.jpg",
+ "song_art_image_url": "https://images.genius.com/75b1ab9a13f28c1c0e0b160e4276e536.1000x896x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 9419
+ },
+ "title": "Dreh dich nicht um",
+ "title_with_featured": "Dreh dich nicht um",
+ "updated_by_human_at": 1458590484,
+ "url": "https://genius.com/Gisbert-zu-knyphausen-dreh-dich-nicht-um-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/221609",
+  "header_image_url": "https://images.genius.com/0a35bf4f1d76b078434807666ae940fc.1000x667x1.jpg",
+  "id": 221609,
+  "image_url": "https://images.genius.com/11bac647b37e1d5337bac1533cc1ade8.959x959x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gisbert zu Knyphausen",
+  "slug": "Gisbert-zu-knyphausen",
+  "url": "https://genius.com/artists/Gisbert-zu-knyphausen"
+ },
+ "artist": "Gisbert zu Knyphausen",
+ "lyrics": "Tief in unseren Augenringen steht doch alles\nWas wir wissen m\u00fcssen, mein Herz\nWenn wir uns nicht mehr tragen k\u00f6nnen\nWarum lassen wir es dann nicht bleiben?\nDu musst mir nichts mehr erkl\u00e4ren und dir vor allem\nNicht mehr einreden, dass du mich\nIn deinem Leben wirklich noch brauchst\nNimm deine Schuhe mit, wenn du gehst\nUnd deine Zweifel auch\n\nErinnerst du den Tag, an dem wir\nBetrunken in deinem Garten lagen?\nUnd die Kinder deiner Schwester um uns herum\nSie tanzten den Tanz der Piraten\nDas war das letzte Mal\nDass ich dich so voller Liebe lachen sah\nEs gab viele Tr\u00e4nen hinterher\nTrag dieses Lachen bei dir, wenn du gehst\nIch mag es sehr\n\nDer Regen kommt und der Regen geht\nMan geht ein St\u00fcck zu zweit und\nDen Rest alleine und was dann bleibt\nIst die Erinnerung, an eine Zeit\nDie so viel sch\u00f6ner war als jetzt\nHey, bitte nimm sie uns nicht krumm\nNimm die Erinnerung mit dir, wenn du gehst\nSonst bleibt sie stumm\nNimm die Erinnerung mit dir, wenn du gehst\nUnd dreh dich nicht umEmbedShare URLCopyEmbedCopy"
+}

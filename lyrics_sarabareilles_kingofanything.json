@@ -1,0 +1,42 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/392331",
+ "artist_names": "Sara Bareilles",
+ "full_title": "King of Anything by\u00a0Sara\u00a0Bareilles",
+ "header_image_thumbnail_url": "https://images.genius.com/72b4cd8a3897d2850e23917cf8a431cb.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/72b4cd8a3897d2850e23917cf8a431cb.600x600x1.jpg",
+ "id": 392331,
+ "instrumental": false,
+ "lyrics_owner_id": 4111735,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1640418147,
+ "path": "/Sara-bareilles-king-of-anything-lyrics",
+ "pyongs_count": 5,
+ "song_art_image_thumbnail_url": "https://images.genius.com/134c393db40a06858676021e804826d4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/134c393db40a06858676021e804826d4.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 18985
+ },
+ "title": "King of Anything",
+ "title_with_featured": "King of Anything",
+ "updated_by_human_at": 1640418147,
+ "url": "https://genius.com/Sara-bareilles-king-of-anything-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/19936",
+  "header_image_url": "https://images.genius.com/b7f7b7b63aeae4cb07b7d73f8483536c.1000x333x1.jpg",
+  "id": 19936,
+  "image_url": "https://images.genius.com/8cb09a14b26d7ce8c816fd09668fe473.400x400x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sara Bareilles",
+  "slug": "Sara-bareilles",
+  "url": "https://genius.com/artists/Sara-bareilles"
+ },
+ "artist": "Sara Bareilles",
+ "lyrics": "[Intro]\nOh, oh, oh, oh\nOh, oh, oh, oh\nOh, oh, oh, oh\nOh, oh, oh, oh\n\n[Verse 1]\nKeep drinkin' coffee, stare me down across the table\nWhile I look outside\nSo many things I'd say, if only I were able\nBut I just keep quiet and count the cars that pass by\nYou've got opinions, man, we're all entitled to 'em\nBut I never asked\nSo, let me thank you for your time\nAnd try to not waste any more of mine\nGet outta here fast\n\n[Pre-Chorus]\nI hate to break it to you, babe\nBut I'm not drowning\nThere's no one here to save\n\n[Chorus]\nWho cares if you disagree? You are not me\nWho made you king of anything?\nSo, you dare tell me who to be?\nWho died and made you king of anything?\nOh\n[Verse 2]\nYou sound so innocent, all full of good intent\nSwear you know best\nBut you expect me to jump up on board with you\nAnd ride off into your delusional sunset\nI'm not the one who's lost with no direction, oh\nBut you'll never see\nYou're so busy makin' maps with my name on them in all caps\nYou got the talkin' down, just not the listening\n\n[Chorus]\nAnd who cares if you disagree? You are not me\nWho made you king of anything?\nSo, you dare tell me who to be?\nWho died and made you king of anything?\n\n[Bridge]\nAll my life I've tried (Tried)\nTo make everybody happy while I\nJust hurt (Hurt) and hide\nWaiting for someone to tell me it's my turn to decide\nOh, oh, oh, oh\nOh, oh, oh, oh\nOh, oh, oh, oh\nOh, oh, oh, oh\n[Chorus]\nWho cares if you disagree? You are not me\nWho made you king of anything?\nSo, you dare tell me who to be?\nWho died and made you king of anything?\nOh, who cares if you disagree? You are not me\nWho made you king of anything?\nSo, you dare tell me who to be?\nWho died and made you king of anything?\n\n[Outro]\nLemme hold your crown, babe\nOh, ooh\nAh5EmbedShare URLCopyEmbedCopy"
+}

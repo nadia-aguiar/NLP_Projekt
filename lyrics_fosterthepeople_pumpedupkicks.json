@@ -1,0 +1,42 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/1429",
+ "artist_names": "Foster the People",
+ "full_title": "Pumped Up Kicks by\u00a0Foster\u00a0the People",
+ "header_image_thumbnail_url": "https://images.genius.com/8d3bf197ff7a54cec15e37b63930d880.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8d3bf197ff7a54cec15e37b63930d880.1000x1000x1.jpg",
+ "id": 1429,
+ "instrumental": false,
+ "lyrics_owner_id": 116,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1639103802,
+ "path": "/Foster-the-people-pumped-up-kicks-lyrics",
+ "pyongs_count": 245,
+ "song_art_image_thumbnail_url": "https://images.genius.com/fd2f2e740a8fa6025907648a31abf43f.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/fd2f2e740a8fa6025907648a31abf43f.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 2230557
+ },
+ "title": "Pumped Up Kicks",
+ "title_with_featured": "Pumped Up Kicks",
+ "updated_by_human_at": 1635217075,
+ "url": "https://genius.com/Foster-the-people-pumped-up-kicks-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/703",
+  "header_image_url": "https://images.genius.com/a0e421d71ff3c6d8704daf7dceaeb493.1000x333x1.jpg",
+  "id": 703,
+  "image_url": "https://images.genius.com/797efcee81d888b8c6d053316717611f.838x838x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Foster the People",
+  "slug": "Foster-the-people",
+  "url": "https://genius.com/artists/Foster-the-people"
+ },
+ "artist": "Foster the People",
+ "lyrics": "[Verse 1]\nRobert's got a quick hand\nHe'll look around the room, he won't tell you his plan\nHe's got a rolled cigarette\nHanging out his mouth, he's a cowboy kid\nYeah, he found a six-shooter gun\nIn his dad's closet with a box of fun things\nI don't even know what\nBut he's coming for you, yeah, he's coming for you, wait\n\n[Chorus]\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet\n\n[Verse 2]\nDaddy works a long day\nHe be coming home late, and he's coming home late\nAnd he's bringing me a surprise\n'Cause dinner's in the kitchen and it's packed in ice\nI've waited for a long time\nYeah, the sleight of my hand is now a quick-pull trigger\nI reason with my cigarette\nAnd say, \"Your hair's on fire, you must've lost your wits,\" yeah\n[Chorus]\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet\n\n[Bridge]\nRun, run, run, run\nRu-ru-ru-run, run, run\nRu-ru-ru-ru-run, run, run, run\nRu-ru-ru-run\nRun, run, ru-run, run\n\n[Chorus]\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet\nAll the other kids with the pumped up kicks\nYou better run, better run, outrun my gun\nAll the other kids with the pumped up kicks\nYou better run, better run faster than my bullet245EmbedShare URLCopyEmbedCopy"
+}

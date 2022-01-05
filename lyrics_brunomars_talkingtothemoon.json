@@ -1,0 +1,43 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/85221",
+ "artist_names": "Bruno Mars",
+ "full_title": "Talking to the Moon by\u00a0Bruno\u00a0Mars",
+ "header_image_thumbnail_url": "https://images.genius.com/17e3ee93648032ebc9ab0f6695697e98.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/17e3ee93648032ebc9ab0f6695697e98.1000x1000x1.jpg",
+ "id": 85221,
+ "instrumental": false,
+ "lyrics_owner_id": 126824,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1640446418,
+ "path": "/Bruno-mars-talking-to-the-moon-lyrics",
+ "pyongs_count": 80,
+ "song_art_image_thumbnail_url": "https://images.genius.com/48c5b0a22a0addd3dae93c58f39af5dc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/48c5b0a22a0addd3dae93c58f39af5dc.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 488962
+ },
+ "title": "Talking to the Moon",
+ "title_with_featured": "Talking to the Moon",
+ "updated_by_human_at": 1640446419,
+ "url": "https://genius.com/Bruno-mars-talking-to-the-moon-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/500",
+  "header_image_url": "https://images.genius.com/8eb447d78884f40471c1ba199b6b7fb3.1000x667x1.jpg",
+  "id": 500,
+  "image_url": "https://images.genius.com/ec38c902389e5d9df5782aa54fcf3c00.888x888x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Bruno Mars",
+  "slug": "Bruno-mars",
+  "url": "https://genius.com/artists/Bruno-mars",
+  "iq": 250
+ },
+ "artist": "Bruno Mars",
+ "lyrics": "[Verse 1]\nI know you're somewhere out there\nSomewhere far away\nI want you back, I want you back\nMy neighbors think I'm crazy\nBut they don't understand\nYou're all I had, you're all I had\n\n[Pre-Chorus]\nAt night when the stars light up my room\nI sit by myself\n\n[Chorus]\nTalking to the moon\nTryna get to you\nIn hopes you're on the other side talking to me, too\nOr am I a fool who sits alone talking to the moon?\n\n[Verse 2]\nI'm feeling like I'm famous, the talk of the town\nThey say I've gone mad\nYeah, I've gone mad\nBut they don't know what I know\n'Cause when the sun goes down, someone's talking back\nYeah, they're talking back, oh\n[Pre-Chorus]\nAt night when the stars light up my room\nI sit by myself\n\n[Chorus]\nTalking to the moon\nTryna get to you\nIn hopes you're on the other side talking to me, too\nOr am I a fool who sits alone talking to the moon?\n\n[Bridge]\nDo you ever hear me calling?\nOh-oh-oh, oh-oh-oh\n'Cause every night, I'm talking to the moon\n\n[Chorus]\nStill trying to get to you\nIn hopes you're on the other side talking to me, too\nOr am I a fool who sits alone talking to the moon?\n\n[Outro]\nOh-oh\nI know you're somewhere out there\nSomewhere far away80EmbedShare URLCopyEmbedCopy"
+}

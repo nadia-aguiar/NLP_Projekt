@@ -1,0 +1,42 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/2334204",
+ "artist_names": "One Direction",
+ "full_title": "Home by\u00a0One\u00a0Direction",
+ "header_image_thumbnail_url": "https://images.genius.com/07b5246af5ee9cd4724c0deb8d0ba68e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/07b5246af5ee9cd4724c0deb8d0ba68e.618x618x1.jpg",
+ "id": 2334204,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1586363809,
+ "path": "/One-direction-home-lyrics",
+ "pyongs_count": 51,
+ "song_art_image_thumbnail_url": "https://images.genius.com/660a8d04ae0ba26cb979a514c92830e1.220x220x1.png",
+ "song_art_image_url": "https://images.genius.com/660a8d04ae0ba26cb979a514c92830e1.220x220x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 188603
+ },
+ "title": "Home",
+ "title_with_featured": "Home",
+ "updated_by_human_at": 1603099570,
+ "url": "https://genius.com/One-direction-home-lyrics",
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/19657",
+  "header_image_url": "https://images.genius.com/d556360ef2b1a2f6a80d526a9a957a80.1000x709x1.jpg",
+  "id": 19657,
+  "image_url": "https://images.genius.com/d4e08e9c7edd1833b410b078a8b33483.1000x1000x1.jpg",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "One Direction",
+  "slug": "One-direction",
+  "url": "https://genius.com/artists/One-direction"
+ },
+ "artist": "One Direction",
+ "lyrics": "[Verse 1: Liam & Niall]\nMake a little conversation, so long I've been waiting\nTo let go of myself and feel alive\nSo many nights I thought it over, told myself I kind of liked her\nBut there was something missing in her eyes\n\n[Pre-Chorus: Harry]\nI was stumbling\nLooking in the dark (Ooh) with an empty heart\nBut you say you feel the same\nCould we ever be enough? (Ooh) Baby, we could be enough\n\n[Chorus: All & Louis]\nAnd it's alright\nCalling out for somebody to hold tonight\nWhen you're lost, I'll find a way, I'll be your light\nYou'll never feel like you're alone\nI'll make this feel like home\n\n[Verse 2: Niall & Louis]\nSo hot that I couldn't take it, wanna wake up and see your face\nAnd remember how good it was being here last night\nStill high with a little feeling, I see the smile as it starts to creep in\nIt was there, I saw it in your eyes\n\n[Pre-Chorus: Harry]\nI was stumbling\nLooking in the dark (Ooh) with an empty heart\nBut you say you feel the same\nCould we ever be enough? (Ooh) Baby, we could be enough\n[Chorus: All & Louis & Harry]\nAnd it's alright\nCalling out for somebody to hold tonight\nWhen you're lost, I'll find a way, I'll be your light\nYou'll never feel like you're alone\nI'll make this feel like home\nI'll make this feel like home\nBaby, we could be enough\nAnd it's alright\nCalling out for somebody to hold tonight\nWhen you're lost, I'll find a way, I'll be your light\nYou'll never feel like you're alone\nI'll make this feel like home51EmbedShare URLCopyEmbedCopy"
+}
